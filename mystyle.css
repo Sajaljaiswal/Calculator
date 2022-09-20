@@ -15,9 +15,10 @@
   }
 
 .row input{
-    padding: 7px 30px;
+    font-size: large;
+    font-weight: bolder;
+    padding: 7px 0px;
     border: 2px solid black;
-    background: white;
     border-radius: 10px;
 }
 
