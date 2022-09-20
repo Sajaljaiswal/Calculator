@@ -1,0 +1,51 @@
+.container{
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    background: black;
+    margin:50px  450px;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+}
+
+.row{
+    margin: 8px 0;
+  }
+
+.row input{
+    padding: 7px 30px;
+    border: 2px solid black;
+    background: white;
+    border-radius: 10px;
+}
+
+.row .btn{
+    margin: 2px;
+    align-items: center;
+    border: 2px solid black;
+    padding: 11px 17px;
+    cursor: pointer;
+    border-radius: 30px;
+    font-weight: bolder;
+}
+
+.row .btn:hover{
+    background-color: tomato;
+    color: aliceblue;
+    font-weight: bolder;
+}
+.org{
+    background-color: tomato;
+    color: aliceblue;
+    font-weight: bolder;
+}
+
+.org:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+
